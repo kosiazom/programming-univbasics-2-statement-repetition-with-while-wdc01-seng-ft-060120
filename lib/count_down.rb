@@ -4,3 +4,4 @@ while count >= 1 do
   break if count == 1
    count -= 1 
  end
+ puts "Happy New Year!"
